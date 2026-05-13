@@ -1,0 +1,6 @@
+{
+  "name": "SatGas AI",
+  "description": "AI Agent Task Force untuk mitigasi dampak judi online dan pemulihan finansial keluarga Indonesia.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": []
+}
